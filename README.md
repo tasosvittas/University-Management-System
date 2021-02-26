@@ -12,9 +12,9 @@ You are able to add students, lessons and enrollment info from text (.txt) files
 Load data from a text (.txt) file:<br>
 <img width="594" alt="Screenshot 2021-02-26 at 10 35 48 PM" src="https://user-images.githubusercontent.com/47252292/109352995-6e829580-7884-11eb-8b78-55590f577574.png">
 
-The text files layout should be like:<br>
-Name,Lastname,Student Code, Semester (for students)
-<img width="395" alt="Screenshot 2021-02-26 at 10 38 57 PM" src="https://user-images.githubusercontent.com/47252292/109353043-7e9a7500-7884-11eb-89a9-47c71fb2e0cb.png">
+The text files layout should be like:
+Name,Lastname,Student Code, Semester (for students)<br>
+<img width="396" alt="Screenshot 2021-02-26 at 10 37 11 PM" src="https://user-images.githubusercontent.com/47252292/109353820-8dcdf280-7885-11eb-9ed2-b3c12a087961.png">
 
 Lesson, Lesson Code, Semester (for lessons)<br>
 <img width="395" alt="Screenshot 2021-02-26 at 10 38 57 PM" src="https://user-images.githubusercontent.com/47252292/109353086-89550a00-7884-11eb-828d-b709a1d8e031.png">
