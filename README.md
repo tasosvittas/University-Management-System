@@ -2,6 +2,7 @@
 Creating an University Management System for students, lessons and student enrollment info.
 
 First of all there is a menu with the following choices: File, Student and Lesson.
+<img width="295" alt="Screenshot 2021-02-26 at 10 35 19 PM" src="https://user-images.githubusercontent.com/47252292/109352858-25324600-7884-11eb-9ede-c6ada1eafb06.png">
 
 File has the Load, Save and Exit choices.
 You are able to add students, lessons and enrollment info from text (.txt) files on your computer.
