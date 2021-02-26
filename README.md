@@ -18,6 +18,7 @@ Name,Lastname,Student Code, Semester (for students)<br>
 
 Lesson, Lesson Code, Semester (for lessons)<br>
 <img width="395" alt="Screenshot 2021-02-26 at 10 38 57 PM" src="https://user-images.githubusercontent.com/47252292/109353086-89550a00-7884-11eb-828d-b709a1d8e031.png">
+
 Student Code, Lesson Code, Grade (for enroll)
 
 Also you can save this into another text file by adding some more info.
